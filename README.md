@@ -2,7 +2,7 @@
 
 Landing page personalizada desenvolvida para **Camila Marques Novais**, estudante de Odontologia, com o objetivo de registrar sua trajetória acadêmica e suas primeiras experiências profissionais.
 
-🔗 **[Ver site publicado]()**
+🔗 **[Ver site publicado](https://laryssasouzacs.github.io/landingpage-odonto/)**
 
 ## Sobre o projeto
 
